@@ -1,12 +1,16 @@
-# Hi, I'm Quoc Anh 👋
+## About Me
 
-🎓 Data Science graduate, aiming to become an **AI Engineer**
-💼 Completed a 6-week hands-on internship as an AI Engineer
+👋 Hey everyone, I'm **Quốc Anh**
+✨ **Aspiring AI Engineer** ✨
 
-## Connect with me
+- <img src="https://img.shields.io/badge/-%20-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="20"/> [Quốc Anh](https://www.linkedin.com/in/qu%E1%BB%91c-anh-b9119b312/)
+- <img src="https://img.shields.io/badge/-%20-D14836?style=flat-square&logo=gmail&logoColor=white" height="20"/> [lequocanh595@gmail.com](mailto:lequocanh595@gmail.com)
+- <img src="https://img.shields.io/badge/-%20-181717?style=flat-square&logo=github&logoColor=white" height="20"/> [github.com/QuocAnh-0710](https://github.com/QuocAnh-0710)
 
-[![Email](https://img.shields.io/badge/Email-lequocanh595%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lequocanh595@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Qu%E1%BB%91c%20Anh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qu%E1%BB%91c-anh-b9119b312/)
+🎓 I'm a Data Science graduate with 6 weeks of hands-on internship experience as an AI Engineer.
+Well-versed in Python, and experienced with PyTorch, TensorFlow, and Scikit-learn for building and training machine learning models.
+
+🌱 I'm passionate about continuously learning and growing in AI/ML. Feel free to connect if you'd like to talk about machine learning, data science, or just say hi!
 
 ## Tech Stack
 
