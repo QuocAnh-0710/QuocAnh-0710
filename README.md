@@ -2,7 +2,6 @@
 
 🎓 Data Science graduate, aiming to become an **AI Engineer**
 💼 Completed a 6-week hands-on internship as an AI Engineer
-🌱 Currently sharpening my skills in Machine Learning & Deep Learning
 
 ## Connect with me
 
