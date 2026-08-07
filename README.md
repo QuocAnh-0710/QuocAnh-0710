@@ -3,14 +3,13 @@
 👋 Hey everyone, I'm **Quốc Anh**
 ✨ **Aspiring AI Engineer** ✨
 
-- <img src="https://img.shields.io/badge/-%20-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="20"/> [Quốc Anh](https://www.linkedin.com/in/qu%E1%BB%91c-anh-b9119b312/)
-- <img src="https://img.shields.io/badge/-%20-D14836?style=flat-square&logo=gmail&logoColor=white" height="20"/> [lequocanh595@gmail.com](mailto:lequocanh595@gmail.com)
-- <img src="https://img.shields.io/badge/-%20-181717?style=flat-square&logo=github&logoColor=white" height="20"/> [github.com/QuocAnh-0710](https://github.com/QuocAnh-0710)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qu%E1%BB%91c-anh-b9119b312/)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lequocanh595@gmail.com)
 
 🎓 I'm a Data Science graduate with 6 weeks of hands-on internship experience as an AI Engineer.
 Well-versed in Python, and experienced with PyTorch, TensorFlow, and Scikit-learn for building and training machine learning models.
 
-🌱 I'm passionate about continuously learning and growing in AI/ML. Feel free to connect if you'd like to talk about machine learning, data science, or just say hi!
+🌱 I'm an AI Engineer fresher, eager to keep learning and growing in the field. Feel free to connect if you'd like to talk about machine learning or AI, or just say hi!
 
 ## Tech Stack
 
